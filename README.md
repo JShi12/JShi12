@@ -9,7 +9,7 @@ reproducible code.
 
 - **[AI Literature Review Assistant](https://github.com/JShi12/AI-literature-review-assistant)**:
   an agentic LLM system (PydanticAI) that turns research PDFs into citation-grounded
-  literature reviews, with sentence-level traceability. Live demo.
+  literature reviews, with sentence-level traceability and an evaluation harness of calibrated LLM judges and a CI regression gate. Live demo.
 - **[Boiling-point prediction, active learning & Bayesian optimisation](https://github.com/JShi12/Predict-Organic-Chemical-Boiling-Point)**:
   nested cross-validation, a label audit, and BoTorch Bayesian optimisation that finds 69% of
   in-spec compounds after 12% of experiments.
@@ -19,6 +19,8 @@ reproducible code.
 - **[Vehicle damage detection](https://github.com/JShi12/vehicle-damage-detection)**:
   YOLO11 with MLflow tracking, a containerised FastAPI service, and CI with
   champion/challenger model promotion.
+- **[Retail promotions analytics on Databricks](https://github.com/JShi12/retail-promotions-analytics)**:
+  PySpark medallion pipeline on 2,500 households’ grocery data; promotion lift, customer segments, and a coupon-targeting model that beats the best simple rule (58.5% vs 51.4% of redemptions captured in the top 20%), with a Databricks dashboard.  
 
 ## Research
 
