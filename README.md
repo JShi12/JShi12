@@ -26,6 +26,5 @@ all with tested, reproducible code.
 
 ## Research
 
-PhD in Fluid Dynamics & CFD, Cranfield University. Nine peer-reviewed journal articles,
-eight as first author, in fluid dynamics, multiphase flow and interfacial science.
+PhD in Engineering (fluid dynamics), Cranfield University, followed by research at Durham University and a Knowledge Transfer Partnership with Xaar. Nine peer-reviewed journal articles, eight as first author, spanning multiphase flow, interfacial science and imaging-based measurement.
 [Google Scholar](https://scholar.google.com/citations?user=r0JjaJkAAAAJ&hl=en)
